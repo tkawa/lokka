@@ -499,7 +499,7 @@ html: '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.o
 			controls: {},
 			css: {},
 			events: {},
-			autoGrow: false,
+			autoGrow: true,
 			autoSave: true,
 			brIE: true,					// http://code.google.com/p/jwysiwyg/issues/detail?id=15
 			formHeight: 270,
